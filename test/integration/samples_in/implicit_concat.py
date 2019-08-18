@@ -1,2 +1,1 @@
-a = "my string {}, but also " \
-    "{} and {}".format(var, f, cada_bra)
+a = "my string {}, but also " "{} and {}".format(var, f, cada_bra)
